@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TMS ANNADANAM COUNT</string>
+    <string name="tms_app_id">AFBD23D6-E190-4D9F-8EB8-A2ACF00B7B81</string>
+
+    <string name="txt_login">LOGIN</string>
+    <string name="txt_username">USERNAME</string>
+    <string name="txt_password">PASSWORD</string>
+
+    <string name="txt_login_proceed">PROCEED</string>
+
+
+</resources>
